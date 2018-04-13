@@ -41,7 +41,7 @@ jquery-image-center example
 <!-- image center thumbnail library -->
 <script type="text/javascript" src="./jquery.blImageCenter.js"></script>
 ```
-jqeury-3.2.1.min.js 파일은 항상 기본이다.<br>
+**jqeury-3.2.1.min.js** 파일은 항상 **기본**이다.<br>
 ```
 <script>
 	$(document).ready(function(){
@@ -49,4 +49,4 @@ jqeury-3.2.1.min.js 파일은 항상 기본이다.<br>
 	});
 </script>
 ```
-jquery.blImageCenter.js 라이브러리로 이미지를 css없이 간편하게 중앙포커스를 할 수 있다.
+**jquery.blImageCenter.js** 라이브러리로 이미지를 css없이 간편하게 중앙포커스를 할 수 있다.
