@@ -35,14 +35,15 @@ jquery-image-center example
 </body>
 </html>
 ```
-<br>
+<br/>
 ## 중요한 부분
 ```
 <script type="text/javascript" src="./jquery-3.2.1.min.js"></script>
 <!-- image center thumbnail library -->
 <script type="text/javascript" src="./jquery.blImageCenter.js"></script>
 ```
-**jqeury-3.2.1.min.js** 파일은 항상 **기본**이다.<br>
+**jqeury-3.2.1.min.js** 파일은 항상 **기본**이다.
+<br/>
 ```
 <script>
 	$(document).ready(function(){
