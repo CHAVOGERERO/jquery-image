@@ -35,7 +35,6 @@ jquery-image-center example
 </body>
 </html>
 ```
-<br/>
 ## 중요한 부분
 ```
 <script type="text/javascript" src="./jquery-3.2.1.min.js"></script>
@@ -43,7 +42,6 @@ jquery-image-center example
 <script type="text/javascript" src="./jquery.blImageCenter.js"></script>
 ```
 **jqeury-3.2.1.min.js** 파일은 항상 **기본**이다.
-<br/>
 ```
 <script>
 	$(document).ready(function(){
@@ -52,7 +50,6 @@ jquery-image-center example
 </script>
 ```
 **jquery.blImageCenter.js** 라이브러리로 이미지를 css없이 간편하게 중앙포커스를 할 수 있다.
-<br>
 ## 샘플 이미지
 ### 가로 샘플
 ![width_image](./width.jpg "width_image")
