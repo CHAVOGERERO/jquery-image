@@ -52,6 +52,6 @@ jquery-image-center example
 **jquery.blImageCenter.js** 라이브러리로 이미지를 css없이 간편하게 중앙포커스를 할 수 있다.
 ## 샘플 이미지
 ### 가로 샘플
-![width_image](/width.jpg "width_image")
+[![width_image](./width.jpg)]("width_image")
 ### 세로 샘플
-![vertical_image](/vertical_img.jpg "vertical_image")
+[![vertical_image](./width.jpg)]("vertical_image")
